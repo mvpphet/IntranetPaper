@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:paper_ID;datatype:int,name:paper_Name;datatype:string,name:paper_Type;datatype:int,name:paper_URL;datatype:blob,name:paper_UploadDate;datatype:date" />
+</info>
